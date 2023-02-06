@@ -12,7 +12,7 @@ You can find me on:
 * [GitHub (@RoseratUgo)](https://github.com/RoseratUgo)
 * [Instagram (@roserat_ugo)](https://www.instagram.com/roserat_ugo/)
 
-[![Profile Status][Profile-shield]][Profile-url]<br/>
+[![Profile Status][Profile-shield]][Profile-url]
 [![Language Status][Language-shield]][Language-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
