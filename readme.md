@@ -18,6 +18,6 @@ You can find me on:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Profile-shield]: https://github-readme-stats.vercel.app/api?username=roseratugo&theme=blue-green
-[Profile-url]: https://app.netlify.com/sites/acr-froggy/deploys
+[Profile-url]: https://github.com/RoseratUgo
 [Language-shield]: https://github-readme-stats.vercel.app/api/top-langs/?username=roseratugo&theme=blue-green
-[Language-url]: https://app.netlify.com/sites/acr-froggy/deploys
+[Language-url]: https://github.com/RoseratUgo
