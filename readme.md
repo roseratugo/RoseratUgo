@@ -11,3 +11,10 @@ You can find me on:
 * [LinkedIn (@ugo-roserat)](https://www.linkedin.com/in/ugo-roserat/)
 * [GitHub (@RoseratUgo)](https://github.com/RoseratUgo)
 * [Instagram (@roserat_ugo)](https://www.instagram.com/roserat_ugo/)
+
+[![Roserat Status][Roserat-shield]][Roserat-url]
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[Roserat-shield]: https://github-readme-stats.vercel.app/api?username=roseratugo&theme=blue-green
+[roserat-url]: https://app.netlify.com/sites/acr-froggy/deploys
