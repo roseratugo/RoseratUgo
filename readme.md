@@ -54,9 +54,13 @@ I'm a 21-year-old French **Apprentice Web Developer**. Passionate about coding, 
 - 🚀 Advanced JavaScript frameworks
 
 ### 🎨 Passions
-- 🤖 Exploring cutting-edge web technologies
-- 🌐 Developing accessible and user-friendly web apps
-- 🤝 Contributing to open-source projects
+- 💻 Passionate about web development and exploring cutting-edge technologies
+- 🎨 Engaged in graphic design and artistic creation
+- 🌐 Focused on developing accessible and user-friendly web applications
+- 🖼️ Enthusiastic about 3D modeling and animation
+- 📷 Avid photographer and videographer
+- 🤝 Contributing to open-source projects and community engagement
+- 😁 I love blending creativity with technology, finding innovative solutions, and continuously learning new skills. Let's connect and explore the endless possibilities of the digital world together!
 
 ### 📫 Reach out to me!
 - ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) [GitHub](https://github.com/RoseratUgo)
