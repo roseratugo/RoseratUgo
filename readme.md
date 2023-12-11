@@ -1,4 +1,4 @@
-## 👋 Hello World, I'm Ugo ROSERAT 🌟
+## ![wave] Hello World, I'm Ugo ROSERAT 🌟
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="1000">
 
@@ -77,6 +77,7 @@ I'm a 21-year-old French **Apprentice Web Developer**. Passionate about coding, 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[wave]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@1.1.0/icons/gifs/wave.gif
 [Profile-shield]: https://github-readme-stats.vercel.app/api?username=roseratugo&theme=blue-green
 [Profile-url]: https://github.com/RoseratUgo
 [Language-shield]: https://github-readme-stats.vercel.app/api/top-langs/?username=roseratugo&theme=blue-green
