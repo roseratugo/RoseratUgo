@@ -1,6 +1,6 @@
 ## Hello World, I'm Ugo ROSERAT 🌟
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="800">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="1000">
 
 ### 👨‍💻 About Me
 I'm a 21-year-old French **Apprentice Web Developer**. Passionate about coding, I love building vibrant web experiences. Currently, I'm sharpening my skills at **A.C. Concept** and **EKOD School**.
